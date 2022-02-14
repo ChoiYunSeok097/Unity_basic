@@ -21,3 +21,8 @@
 
 <img src="https://user-images.githubusercontent.com/59460871/153793924-44cc90b0-1e45-4bdf-ba9c-2dc7f3befcc9.PNG"  width="400" height="200"/>
 <img src="https://user-images.githubusercontent.com/59460871/153793966-3a282b7e-280b-4b20-ba2e-9e691fde415d.PNG"  width="400" height="200"/>
+
+- 마우스 클릭으로 모은 게이지만큼 새를 발사
+- 목표인 동물과 충돌시 점수가 오르며 동물은 다른 곳에 리스폰
+- 장애물은 충돌해도 밀려나지 않음
+
