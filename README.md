@@ -10,6 +10,6 @@
 
 # Post
 
-<img src="https://user-images.githubusercontent.com/59460871/151491462-30a8d618-ceeb-41a9-a0db-bfc12c699350.PNG"  width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/59460871/151491462-30a8d618-ceeb-41a9-a0db-bfc12c699350.PNG"  width="400" height="200"/>
 
 -raycast를 이용해 이름 화면에 이름이 출력된다
