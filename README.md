@@ -26,3 +26,10 @@
 - 목표인 동물과 충돌시 점수가 오르며 동물은 다른 곳에 리스폰
 - 장애물은 충돌해도 밀려나지 않음
 
+<img src="https://user-images.githubusercontent.com/59460871/153794747-d037b4bd-5d8e-47ce-a755-7162087357e3.PNG"  width="400" height="200"/>
+<img src="https://user-images.githubusercontent.com/59460871/153794828-1391b7a4-ef17-4ce5-9436-679cdd40fe02.PNG"  width="400" height="200"/>
+
+- Scene기능을 통해 여러 장면을 연결
+- 여러 비행기중 하나를 선택가능
+- 방해물인 운석을 피하며 살아남기
+- 
