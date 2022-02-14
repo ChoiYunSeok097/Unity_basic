@@ -19,4 +19,5 @@
 - 이미 지나간 장애물은 일정거리 이후 삭제
 - 시간 측정후 장애물에 부딪혔을 시 보여주기
 
-
+<img src="https://user-images.githubusercontent.com/59460871/153793924-44cc90b0-1e45-4bdf-ba9c-2dc7f3befcc9.PNG"  width="400" height="200"/>
+<img src="https://user-images.githubusercontent.com/59460871/153793966-3a282b7e-280b-4b20-ba2e-9e691fde415d.PNG"  width="400" height="200"/>
