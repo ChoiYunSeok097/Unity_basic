@@ -1,5 +1,5 @@
-# Unity_basic00
-유니티 기본 동작을 배워본다
+# Unity_basic
+유니티 기본 동작을 공부
 
 # 유니티
 - 오브젝트 생성 및 배치
@@ -12,3 +12,4 @@
 -오브젝트를 바라보면 이름이 출력됩니다.
 
 ![캡쳐1](https://user-images.githubusercontent.com/59460871/151491462-30a8d618-ceeb-41a9-a0db-bfc12c699350.PNG)
+- raycast를 이용해 이름 화면에 이름이 출력된다
