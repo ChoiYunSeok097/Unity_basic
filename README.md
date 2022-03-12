@@ -40,7 +40,7 @@
 - 운석을 소환하는 곳을 플레이어의 위치에 따라 달리 해보았습니다.
 
 <img src="https://user-images.githubusercontent.com/59460871/157852936-1dd85001-9519-4055-b57f-60a3c930af3a.PNG"  width="400" height="200"/>
-
+<img src="https://user-images.githubusercontent.com/59460871/158006263-379578a5-ba2a-4f01-b4b5-0422e90734ff.PNG"  width="400" height="200"/>
 - 계속 리스폰 되는 슬라임을 잡는 게임입니다
 - raycast를 이용해 탑다운 뷰를 만들어 보았습니다. 근 일주일을 고민했는데, 카메라에서 마우스방향으로 바닥에 ray를 쏘면 되는 것을 알았을 때 정말 신기했습니다.
 - 일정 포지션에서 슬라임 생성을 합니다
