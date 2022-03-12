@@ -1,15 +1,18 @@
 
 # 목표
-- 유니티의 기초를 학습
-- script의 이해
-- 충돌,vector의 이해
-- UI,애니메이션 사용해보기
+- 유니티의 기초를 배워보았습니다
+- 강의, 영상에서 배웠던 기초나, 기법들을 이용해 여러 상황들을 제작해 보았습니다.
+- 직접 사용해보고 에러를 해결해보면서 이해력을 높이는 것이 목표입니다.
+
 
 # Post
 
 <img src="https://user-images.githubusercontent.com/59460871/151491462-30a8d618-ceeb-41a9-a0db-bfc12c699350.PNG"  width="400" height="200"/>
+<img src="https://user-images.githubusercontent.com/59460871/158005518-599cf25b-cdb3-41f3-9fad-3745476d144b.PNG"  width="400" height="200"/>
 
-- raycast를 이용해 화면에 이름이 출력을 출력
+- 간단 UI로 박스를 만들었습니다
+- 카메라에서 ray를 쏴서 오브젝트와 충돌체크를 합니다
+- raycast를 이용해 화면에 이름이 출력을 출력합니다
 
 <img src="https://user-images.githubusercontent.com/59460871/153783096-0172596b-a86c-4075-b83c-bfa80304586d.PNG"  width="400" height="200"/>
 <img src="https://user-images.githubusercontent.com/59460871/153783127-c8c149d9-c285-49d1-8355-c388f1ada086.PNG"  width="400" height="200"/>
